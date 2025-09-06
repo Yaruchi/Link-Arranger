@@ -20,13 +20,13 @@ The executable includes embedded metadata for system information and versioning:
 | Property             | Value                                                      |
 |----------------------|------------------------------------------------------------|
 | Product Name         | Link Arranger                                              |
-| Version              | 1.0.0                                                      |
+| Version              | 0.0.1                                                      |
 | Author               | Yaruchi Aoki                                               |
 | Description          | A tool for cleaning and organizing lists of links          |
 | Original Filename    | LinkArranger.exe                                           |
 | Internal Name        | LinkArranger                                               |
 | Copyright            | © 2025 Yaruchi Aoki. All rights reserved.                  |
-| Comments             | Version 1.0.0 - Initial release of the Link Arranger.      |
+| Comments             | Version 0.0.1 - Initial release of the Link Arranger.      |
 
 ## Usage  
 1. Launch the `LinkArranger.exe` file.  
